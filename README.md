@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aib01gl1hfah4syt?svg=true)](https://ci.appveyor.com/project/VadimRoziznan/pure-functions)
+
 ## Чистые функции
 
 ### Легенда
